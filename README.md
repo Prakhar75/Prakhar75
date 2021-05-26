@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prakhar75](https://github.com/Prakhar75)
 
+- 🎓 interested working in : **react , javascript , flutter and node**
+
 - 📫 How to reach me **prakhar7557s@gmail.com**
 
 - 📄 Competitive Profile: **1870: codechef**
