@@ -1,9 +1,6 @@
 <h1 align="center">Hey There, I'm Prakhar</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prakhar75&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar75" />
-</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prakhar75](https://github.com/Prakhar75)
 - 🎓 Skillset: **Data Engineering, Python, Spark, Airflow, Kafka, Databricks, SQL, PostgreSQL, AWS, ETL/ELT**
