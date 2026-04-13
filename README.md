@@ -1,11 +1,11 @@
-<h1 align="center">Hey There , I'm Prakhar Sharma</h1>
-<h3 align="center">A passionate Web developer, Competitive programmer from India</h3>
+<h1 align="center">Hey There, I'm Prakhar</h1>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar75&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar75" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prakhar75](https://github.com/Prakhar75)
 
-- 🎓 interested working in : **react , javascript , flutter and node**
+- 🎓 interested working in : **Data engineering , Python , Spark and Kafka**
 
 - 📫 How to reach me **prakhar7557s@gmail.com**
 
